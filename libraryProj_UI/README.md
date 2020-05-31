@@ -1,10 +1,10 @@
-# react-webpack-example
+# libraryProj-UI
 
-An example of webpack configuration on existing react application
+This is the UI for library project
 
-- basic webpack configuration
-- vender splitting
-- setup webpack-dev-server
-- react-router with code splitting
-- setup production mode of webpack (-p)
-- setup webpack-dev-middleware for development on server.js
+to run this:
+
+1. npm install
+2. npm start
+
+and access the application at http://localhost:3000
